@@ -1,0 +1,23 @@
+{
+  "local": {
+    "username": "root",
+    "password": null,
+    "database": "24-April",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "24-April",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "24-April",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
